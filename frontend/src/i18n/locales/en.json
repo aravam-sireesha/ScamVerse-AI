@@ -1,0 +1,20 @@
+{
+  "app": {
+    "name": "ScamShield"
+  },
+  "chat": {
+    "greeting": "Hi! Paste a message, link, or describe a call and ask: Is this safe? Can I trust this website? Should I click this link?",
+    "placeholder": "Paste a suspicious message, link, or ask a question..."
+  },
+  "nav": {
+    "dashboard": "Executive Dashboard",
+    "chat": "AI Chat Assistant",
+    "url": "URL Scan Engine",
+    "email": "Email Analyzer",
+    "screenshot": "Screenshot Scanner",
+    "qr": "QR Code Scanner",
+    "voice": "Voice Scam Detection",
+    "job": "Job Post Vetting",
+    "deepfake": "Deepfake Detection"
+  }
+}
